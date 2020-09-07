@@ -17,3 +17,6 @@
 
 * All algorithms implemented in Python (for education)
     * [The Algorithms](https://github.com/TheAlgorithms/Python#all-algorithms-implemented-in-python-for-education)
+
+* Deep Learning for humans
+   * [keras](https://github.com/keras-team/keras)
