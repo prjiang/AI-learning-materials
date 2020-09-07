@@ -20,3 +20,6 @@
 
 * Deep Learning for humans
    * [keras](https://github.com/keras-team/keras)
+
+* Python進階（Intermediate Python 中文版）
+   * [interpy-zh](https://github.com/eastlakeside/interpy-zh)
