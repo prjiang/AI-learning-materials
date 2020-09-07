@@ -23,3 +23,6 @@
 
 * Python進階（Intermediate Python 中文版）
    * [interpy-zh](https://github.com/eastlakeside/interpy-zh)
+
+* Train a computer to recognize your own images, sounds, & poses.
+   * [Teachable Machine](https://teachablemachine.withgoogle.com/)
