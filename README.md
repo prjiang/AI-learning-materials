@@ -26,3 +26,6 @@
 
 * Train a computer to recognize your own images, sounds, & poses.
    * [Teachable Machine](https://teachablemachine.withgoogle.com/)
+
+* Keras 深度學習
+   * [HiSKIO](https://www.youtube.com/playlist?list=PLzH33jxgvsncIhNqH2vRMiSJVv_ir5dsH)
