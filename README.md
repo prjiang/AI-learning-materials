@@ -29,3 +29,6 @@
 
 * Keras 深度學習
    * [HiSKIO](https://www.youtube.com/playlist?list=PLzH33jxgvsncIhNqH2vRMiSJVv_ir5dsH)
+
+* 線上Python 讀書會
+   * [線上讀書會](https://www.youtube.com/playlist?list=PLSebY0Ugo-zeDdkBnS4WcbHLJaVPqsdtr)
