@@ -38,3 +38,9 @@
 
 * Python Face Detection & OpenCV
    * [Examples Mini-Guide](https://static.realpython.com/guides/python-opencv-examples.pdf?__s=2wp8uxebb82vlz43szqd)
+
+* Exploring and understanding Python through surprising snippets.
+   * [wtfpython](https://github.com/satwikkansal/wtfpython)
+   
+* OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
+   * [rex-gym](https://github.com/nicrusso7/rex-gym)
