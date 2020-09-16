@@ -35,3 +35,6 @@
 
 * Real Python
    * Real Python's [GitHub](https://github.com/realpython)、[Website](https://realpython.com/)
+
+* Python Face recognition material
+   * [Python Face Detection & OpenCV Examples Mini-Guide](https://static.realpython.com/guides/python-opencv-examples.pdf?__s=2wp8uxebb82vlz43szqd)
