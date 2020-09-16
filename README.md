@@ -32,3 +32,6 @@
 
 * 線上Python 讀書會
    * [線上讀書會](https://www.youtube.com/playlist?list=PLSebY0Ugo-zeDdkBnS4WcbHLJaVPqsdtr)
+
+* Real Python
+   * Real Python's [GitHub](https://github.com/realpython)、[Website](https://realpython.com/)
