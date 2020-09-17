@@ -38,6 +38,7 @@
 
 * Python Face Detection & OpenCV
    * [Examples Mini-Guide](https://static.realpython.com/guides/python-opencv-examples.pdf?__s=2wp8uxebb82vlz43szqd)
+   * [Python 與 OpenCV 基本讀取、顯示與儲存圖片教學](https://blog.gtwang.org/programming/opencv-basic-image-read-and-write-tutorial/)
    * [OpenCV 擷取網路攝影機串流影像，處理並寫入影片檔案教學](https://blog.gtwang.org/programming/opencv-webcam-video-capture-and-file-write-tutorial/)
 
 * Exploring and understanding Python through surprising snippets.
