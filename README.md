@@ -50,3 +50,6 @@
 
 * Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
    * [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
+
+* YOLO object detection with OpenCV
+   * [pyimagesearch](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
