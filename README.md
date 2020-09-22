@@ -47,3 +47,6 @@
    
 * OpenAI Gym environments for an open-source quadruped robot (SpotMicro)
    * [rex-gym](https://github.com/nicrusso7/rex-gym)
+
+* Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
+   * [Mask_RCNN](https://github.com/matterport/Mask_RCNN)
